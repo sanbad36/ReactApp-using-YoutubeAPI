@@ -1,3 +1,37 @@
+# ReactApp-using-YoutubeAPI
+
+## In this app, based on React, I have called the youtube API, based on the query that user searches.
+<br/> <br/>
+## CheckOut the below architecture images, of the app, for better understanding-
+
+![image](https://user-images.githubusercontent.com/32664738/127442226-dabd96e9-1bcb-49d2-8d11-cc971da4f445.png)
+
+![image](https://user-images.githubusercontent.com/32664738/127442294-ddee0000-19ad-4a5f-b269-09775ea7740a.png)
+
+
+![image](https://user-images.githubusercontent.com/32664738/127442332-fc01fdf2-5498-4539-89f7-37f2e7f8897b.png)
+
+
+![image](https://user-images.githubusercontent.com/32664738/127442393-4ae534af-dfad-49aa-af6f-d7e314997f12.png)
+
+
+![image](https://user-images.githubusercontent.com/32664738/127442458-19cbf877-7a44-4158-8a39-db6ee9cba745.png)
+
+
+![image](https://user-images.githubusercontent.com/32664738/127442512-3ea7bc2f-cd57-4c88-b24e-0b1f365631b4.png)
+
+
+![image](https://user-images.githubusercontent.com/32664738/127442560-4b0d67b1-1b8b-425e-8d1d-c3c0e70e6280.png)
+
+
+![image](https://user-images.githubusercontent.com/32664738/127442603-84674d7e-57a1-4397-aa34-00abc8339697.png)
+
+
+
+https://youtu.be/ZOxPqupBRsc
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
